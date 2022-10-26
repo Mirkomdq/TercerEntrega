@@ -83,6 +83,5 @@ form.addEventListener('submit', (event)=>{
 let lastMain= JSON.parse(localStorage.getItem("main"))
 console.log(lastMain)
 const lastMainWritten= document.createElement('p')
-lastMainWritten.textContent= "Su anterior main fue " + lastMain.nombre
 lastMainWritten.classList.add('parrafos')
 end.appendChild(lastMainWritten)
