@@ -1,5 +1,4 @@
-/* Funciones constructoras */
-/*-------------------------------------------------------------------------*/
+
 
 class campeon{
     constructor(a, b, c, d, e, f){
@@ -31,12 +30,10 @@ let Brand = new campeon("Brand","sup","rango","mago",0, "./img/brand.jpg")
 let Braum  = new campeon("Braum","sup","melee","soporte", 0 , "./img/braum.jpg")
 
 
-/* Arrays */
-/*--------------------------------------------------------------------*/
+
 let campeones = [Aatrox, Ahri, Akali, Akshan, Alistar, Amummu, Anivia, Annie, Aphelios, Ashe, aurelionSol, Azir, Bardo, Belveth, Blitzkrank, Brand, Braum]
 
-/* Funciones */
-/*----------------------------------------------------------------------*/
+
 
 
 
